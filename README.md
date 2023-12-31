@@ -102,39 +102,81 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
 
+Step:1 Open Quartus II and select new project and choose the file location.
 
+Step:2 Module Declaration. Module should have the file name.
+
+Step:3 Declare Inputs and outputs.
+
+Step:4 Use assign declaration and wire to define the functionality of logic circuits.
+
+Step:5 End the program with endmodule.
+
+Step:6 Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-
-
-
-
-
+Developed by:M.Rohith hariharan
+RegisterNumber:23007422 */
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+D-Flipflop:
 
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/01072ab5-283a-45a2-b24a-4f85f24ba6cb)
 
+T-Flipflop:
 
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/5fb5df40-a21b-4e74-afb1-b4d817b8aad4)
 
+JK-Flipflop:
 
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/1ac6a53e-58e7-4808-ac4a-e4ce6eab4f9d)
 
+SR-Flipflop:
 
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/17b1af86-839e-4cf8-af85-9daa7678af3e)
+
+### RTL LOGIC FOR FLIPFLOP:
+
+D-Flipflop:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/fa58b829-4a33-4733-988b-2dc098a4b46d)
+
+T-Flipflop:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/3ce4a1e3-eb98-42a2-8b41-788df0ed5a4e)
+
+jk-flipflop:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/8df562c9-7ec8-409a-b96e-1e84b9de4c66)
+
+SR-flipflop:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/286ad9cf-6d26-47bb-854c-89c4fefb185f)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+D-FLIPFLOP:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/9e354298-e9fc-4216-a9c9-699a73164ca7)
+
+T-FLIPFLOP:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/6ce7f41a-82b8-4119-863d-f168f493ba76)
+
+JK-FLIPFLOP:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/dedd71af-0c77-48af-abb6-df272a81ee4f)
+
+SR-FLIPFLOP:
+
+![image](https://github.com/Rxhith1205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473311/3660b7d1-f4f2-4748-9d1a-4dd7652c1709)
 
 
 
 
-
-
-
-### RESULTS 
+### RESULTS:
+This experiment executed sucessfully.
